@@ -19,6 +19,6 @@
     "rollup-plugin-terser": "^6.1.0"
   },
   "dependencies": {
-    "moment": "^2.27.0"
+    "moment": "^2.29.4"
   }
 }
